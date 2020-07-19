@@ -4,7 +4,7 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:link: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:link: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:art: [Behance][Behance]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
 
 </div>
 
@@ -17,6 +17,7 @@ Quick Link
 [Email]:mailto:info@data-vizard.com
 [Blog]:https://cedricscherer.netlify.com/
 [Portfolio]:https://data-vizard.com/
+[Behance]:https://www.behance.net/cedscherer
 
 My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday), a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem. The project was founded in 2018 by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.  
 
@@ -76,15 +77,22 @@ Feedback is very welcome via [Twitter](https://twitter.com/cedscherer) or [mail]
   - 2020/26 [🦌️ Northern Caribou Movement](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_26)
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_27)
   - 2020/28 [☕️ Coffee Ratings](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_28)
+  - 2020/29 [👨‍🚀 Astronaut Database](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_29)
 <!-- tocstop -->
 
 </details>
 
 ***
 
+### [2020/29](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_29) 👨‍🚀 Astronaut Database by [Stavnichuk & Corlett (2020)](https://doi.org/10.17632/86tsnnbv2w.1)
+
+![./plots/2020_29/2020_29_Astronauts_blur_color.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_29/2020_29_Astronauts_blur_color.png)
+
+***
+
 ### [2020/27](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_28) ☕️ Coffee Ratings by [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database)
 
-![./plots/2020_20/2020_28_CoffeeRatings.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_28/2020_28_CoffeeRatings.png)
+![./plots/2020_20/2028_28_CoffeeRatings.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_28/2020_28_CoffeeRatings.png)
 
 ***
 

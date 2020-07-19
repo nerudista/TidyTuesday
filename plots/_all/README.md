@@ -6,7 +6,19 @@ Feedback is very welcome via [@CedScherer](https://twitter.com/cedscherer) or [c
 
 ***
 
-### [2020/27](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_28) ☕️ Coffee Ratings by [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database)
+![./plots/2020_29/2020_29_Astronauts_hd.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_29/2020_29_Astronauts_hd.png)
+
+**Version without annotations:**
+![./plots/2020_29/2020_29_Astronauts_blur_color_clean_hd.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_29/2020_29_Astronauts_blur_color_clean_hd.png)
+
+**Version with White Blur:**
+![./plots/2020_29/2020_29_Astronauts_blur_white_hd.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_29/2020_29_Astronauts_blur_white_hd.png)
+
+**Version without Blur:**
+![./plots/2020_29/2020_29_Astronauts_hd.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_29/2020_29_Astronauts_hd.png)
+***
+
+### [2020/27](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2028_28) ☕️ Coffee Ratings by [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database)
 
 ![./plots/2020_20/2020_28_CoffeeRatings.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_28/2020_28_CoffeeRatings.png)
 
